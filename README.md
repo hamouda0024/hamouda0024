@@ -1,16 +1,29 @@
-## Hi there 👋
+### 👋 أهلاً بك، أنا أحمد إسلام (Ahmed Islam)
 
-<!--
-**hamouda0024/hamouda0024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+مطور شغوف بالذكاء الاصطناعي وهندسة البرمجيات، أجمع بين الخلفية الأمنية والقانونية، علوم الإعلام والاتصال، واللمسة الإبداعية في الفنون والكتابة.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 نبذة عني (About Me)
+* 💻 **التوجه التقني:** تطوير تطبيقات الويب والحلول البرمجية المعتمدة على الذكاء الاصطناعي (AI Coding Agents).
+* ⚖️ **الخلفية الأكاديمية:** ليسانس في الحقوق والأمن العمومي + تخصص في علوم الإعلام والاتصال (اتصال مؤسساتي).
+* 🌍 **اللغات:** متمكن من اللغتين الإنجليزية والفرنسية.
+* 🎨 **الجانب الإبداعي:** رسام وفنان تشكيلي، معلق صوتي، وكاتب روائي.
+
+---
+
+### 🛠️ التقنيات والأدوات (Tech Stack)
+* **AI & Prompt Engineering:** LLMs, Aider CLI, AI-assisted Full-stack development.
+* **Languages & Web:** JavaScript, TypeScript, React, Tailwind CSS, HTML/CSS.
+* **Tools & Environment:** Git, GitHub, Termux, Alpine Linux, Vercel.
+
+---
+
+### 📂 أبرز المشاريع (Featured Projects)
+* **[Clinical Decision Support Tool](https://github.com/hamouda0024/Clinical-Decision-Support-Tool):** تطبيق ويب متكامل ومساعد ذكي موجه للأطباء للمساعدة في التشخيص التفاضلي واتخاذ القرارات السريرية بناءً على الأعراض.
+
+---
+
+### 🌐 تواصل معي (Connect With Me)
+* 📧 البريد الإلكتروني: ahmedhamouda0024@gmail.com
+* 💼 غيت هب: [hamouda0024](https://github.com/hamouda0024)
