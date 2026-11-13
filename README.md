@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=680&lines=AI+Hobbyist+%26+Full-Stack+Developer;Building+intelligent%2C+human-centered+web+tools;Law+%26+Public+Security+Graduate;Artist+%7C+Voice+Over+%7C+Novelist" alt="Typing SVG" />
 </a>
 
+<img src="assets/profile-pixel-art.jpg" alt="Zerguine Ahmed Islam — pixel art portrait at the desk" width="300" />
+
 <p>
   <img src="https://img.shields.io/badge/Algeria-Algiers-0F172A?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-6366F1?style=flat-square" alt="Open to collaboration" />
